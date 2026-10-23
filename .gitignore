@@ -1,0 +1,23 @@
+# Compiled class files
+*.class
+
+# Log and temporary files
+*.log
+*.tmp
+demo_input.txt
+live_input.txt
+node1_out.txt
+node1_err.txt
+
+# IDE and Editor artifacts
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS generated files
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
